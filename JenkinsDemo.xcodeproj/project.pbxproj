@@ -434,8 +434,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.aldelo.ios.aldeloexpress;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
-				PROVISIONING_PROFILE_SPECIFIER = "7db9b452-88fd-454e-8552-8bef5c7c023c";
+				PROVISIONING_PROFILE = "7db9b452-88fd-454e-8552-8bef5c7c023c";
+				PROVISIONING_PROFILE_SPECIFIER = dev_express_new_2;
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -453,8 +453,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.aldelo.ios.aldeloexpress;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
-				PROVISIONING_PROFILE_SPECIFIER = "b27b06f0-f38a-45f7-9902-28efeeb59fb2";
+				PROVISIONING_PROFILE = "7db9b452-88fd-454e-8552-8bef5c7c023c";
+				PROVISIONING_PROFILE_SPECIFIER = dev_express_new_2;
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
