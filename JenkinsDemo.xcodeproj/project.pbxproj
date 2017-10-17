@@ -193,7 +193,7 @@
 				TargetAttributes = {
 					7B40383F1F94D51C003B9C33 = {
 						CreatedOnToolsVersion = 9.0;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 					};
 					7B4038531F94D51C003B9C33 = {
 						CreatedOnToolsVersion = 9.0;
@@ -426,15 +426,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 545W58CUYU;
+				CODE_SIGN_IDENTITY = "iPhone Developer: tom tom (23HB89JU22)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: tom tom (23HB89JU22)";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = U385YHRS6M;
 				INFOPLIST_FILE = JenkinsDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.wanghui.JenkinsDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.aldelo.ios.aldeloexpress;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE = "08d6f76b-d5bc-4aad-8761-9e01c4aa4a63";
+				PROVISIONING_PROFILE_SPECIFIER = dev_express_new_2;
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -444,15 +445,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 545W58CUYU;
+				CODE_SIGN_IDENTITY = "iPhone Developer: tom tom (23HB89JU22)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: tom tom (23HB89JU22)";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = U385YHRS6M;
 				INFOPLIST_FILE = JenkinsDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.wanghui.JenkinsDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.aldelo.ios.aldeloexpress;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE = "08d6f76b-d5bc-4aad-8761-9e01c4aa4a63";
+				PROVISIONING_PROFILE_SPECIFIER = dev_express_new_2;
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
